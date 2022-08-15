@@ -18,6 +18,7 @@ function nameSplitter(person) {
 } 
 
 function List({people}){
+  console.log(people)
   return (
     <>
     {people.map(nameSplitter)}
