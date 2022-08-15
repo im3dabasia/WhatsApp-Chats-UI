@@ -1,3 +1,2 @@
-## Idea
-
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+# WhatsApp-Chats-UI
+I created a basic UI, It is a chat UI, whereby messages are dynamically displayed, with profile pictures of user and time of message sent it displayed from a external JSON file
